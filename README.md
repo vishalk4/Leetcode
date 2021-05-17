@@ -1,2 +1,2 @@
 # Leetcode
-1. two sum problem
+1. Bulb Switcher Problem
